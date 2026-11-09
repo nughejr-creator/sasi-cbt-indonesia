@@ -252,6 +252,16 @@ export const PublicFooter: React.FC<PublicFooterProps> = ({
             >
               Kontak
             </button>
+            <span>•</span>
+            <a
+              href="/sitemap.xml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-sky-400 transition-colors font-medium inline-flex items-center space-x-1"
+              title="Peta Situs XML Resmi SASIPEDIA untuk Mesin Pencari Google"
+            >
+              <span>🗺️ Peta Situs</span>
+            </a>
           </div>
         </div>
 

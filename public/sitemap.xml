@@ -3,7 +3,7 @@
   <!-- 1. HALAMAN UTAMA / BERANDA -->
   <url>
     <loc>https://www.sasipedia.my.id/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,37 +11,37 @@
   <!-- 2. WAWASAN SOAL & ASESMEN -->
   <url>
     <loc>https://www.sasipedia.my.id/wawasan-asesmen</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/wawasan-asesmen/kaidah-penulisan-soal-asesmen-sekolah-sd</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/wawasan-asesmen/bedah-instrumen-akm-literasi-numerasi-fase-c</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/wawasan-asesmen/analisis-daya-beda-tingkat-kesukaran-soal</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/wawasan-asesmen/pedoman-rubrik-penskoran-esai-hots</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/wawasan-asesmen/asesmen-diagnostik-awal-kurikulum-merdeka</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -49,7 +49,7 @@
   <!-- 3. KISI-KISI & BANK SOAL -->
   <url>
     <loc>https://www.sasipedia.my.id/bank-soal</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -57,7 +57,7 @@
   <!-- 4. RUANG KREATIVITAS GURU -->
   <url>
     <loc>https://www.sasipedia.my.id/ruang-kreativitas</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -65,7 +65,7 @@
   <!-- 5. PROFIL PENGEMBANG -->
   <url>
     <loc>https://www.sasipedia.my.id/profil-pengembang</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -73,25 +73,25 @@
   <!-- 6. LEGALITAS & KEPATUHAN -->
   <url>
     <loc>https://www.sasipedia.my.id/privacy-policy</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/terms</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/about</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.sasipedia.my.id/contact</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
