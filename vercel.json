@@ -12,11 +12,37 @@
           "value": "public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400"
         }
       ]
+    },
+    {
+      "source": "/api/keep-alive",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0"
+        }
+      ]
+    },
+    {
+      "source": "/keep-alive",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0"
+        }
+      ]
     }
   ],
   "rewrites": [
     {
-      "source": "/((?!.*\\.(?:xml|txt|ico|png|jpg|jpeg|svg|json|css|js|woff|woff2|zip|rar)).*)",
+      "source": "/keep-alive",
+      "destination": "/api/keep-alive"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "/api/:path*"
+    },
+    {
+      "source": "/((?!api/|keep-alive|.*\\.(?:xml|txt|ico|png|jpg|jpeg|svg|json|css|js|woff|woff2|zip|rar)).*)",
       "destination": "/index.html"
     }
   ]
